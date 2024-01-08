@@ -1,7 +1,7 @@
 ### Hi there, my name is Richard 👋
 
-- 🔭 I’m currently working with Android Native
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working with Android Native and Flutter
+- 🌱 I’m currently learning Kotlin 
 - 📫 How to reach me: developerfelixrd@gmail.com
 
 <div>
